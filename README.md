@@ -1,5 +1,5 @@
 # About-Me
-Hello, my name is Tianja (Tia) 
+Hello, my name is Tia
 
 I am an undergraduate in Data Analytics at Southern New Hampshire University 
 
